@@ -27,6 +27,10 @@ def load() -> dict:
         load_dotenv(REPO_ROOT / ".env")
     except ImportError:
         pass
+    # Corporate TLS inspection (Zscaler) re-signs certificates. Python's ssl module reads SSL_CERT_FILE, but
+    # requests only reads REQUESTS_CA_BUNDLE, so mirror one into the other when only SSL_CERT_FILE is set.
+    if os.environ.get("SSL_CERT_FILE") and not os.environ.get("REQUESTS_CA_BUNDLE"):
+        os.environ["REQUESTS_CA_BUNDLE"] = os.environ["SSL_CERT_FILE"]
     return cfg
 
 
