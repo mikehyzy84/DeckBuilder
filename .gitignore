@@ -1,0 +1,46 @@
+# Keys and local config
+.env
+.env.*
+!.env.example
+config.local.yaml
+
+# Office and media files never enter the repo
+*.pptx
+*.potx
+*.ppt
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.key
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+*.webm
+*.zip
+*.db
+*.sqlite
+
+# Local data folders inside the repo: slide database and project folders never go to GitHub
+/library/
+/projects/
+DeckBuilder-Library/
+DeckBuilder-Projects/
+output/
+assets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+~$*

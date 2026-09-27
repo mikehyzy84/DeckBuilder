@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m deckbuilder:*)",
+      "Bash(python3 -m deckbuilder:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}

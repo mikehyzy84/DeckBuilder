@@ -1,0 +1,1443 @@
+{
+ "slug": "cgi",
+ "folder": "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock",
+ "master_template": "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/Standard Presentation Template - 2025.pptx",
+ "decks": [
+  "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/Standard Presentation Template - 2025.pptx",
+  "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/Template_Jan 2025.pptx",
+  "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/EN-CGI-Timesaver-template.potx",
+  "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/EN-CGI-Standard-presentation-template.potx"
+ ],
+ "guideline_docs": [
+  "/Users/mike.hyzy/Documents/CGI Business Development/CGI Stock/cgi-business-storytelling-worksheet.docx"
+ ],
+ "images": [],
+ "font_files": [],
+ "theme": {
+  "colors": {
+   "dk1": "#000000",
+   "lt1": "#FFFFFF",
+   "dk2": "#200A58",
+   "lt2": "#EEEEEE",
+   "accent1": "#5236AB",
+   "accent2": "#9E83F5",
+   "accent3": "#CBC3E6",
+   "accent4": "#E31937",
+   "accent5": "#991F3D",
+   "accent6": "#650A21",
+   "hlink": "#5236AB",
+   "folHlink": "#5236AB"
+  },
+  "fonts": {
+   "heading": "Arial",
+   "body": "Arial"
+  },
+  "color_scheme_name": "CGI"
+ },
+ "slide_size_in": [
+  13.333,
+  7.5
+ ],
+ "layouts": [
+  {
+   "master": 0,
+   "index": 0,
+   "name": "Read Only",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 1,
+   "name": "Title slide \u2013  Layout 1",
+   "placeholders": [
+    "0:TITLE",
+    "14:BODY",
+    "16:PICTURE",
+    "17:FOOTER",
+    "18:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 2,
+   "name": "Title slide \u2013  Layout 2A",
+   "placeholders": [
+    "0:TITLE",
+    "14:BODY",
+    "15:FOOTER",
+    "16:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 3,
+   "name": "Title slide \u2013  Layout 2B",
+   "placeholders": [
+    "0:TITLE",
+    "14:BODY",
+    "15:FOOTER",
+    "11:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 4,
+   "name": "Title slide \u2013  Layout 3A",
+   "placeholders": [
+    "14:BODY",
+    "4:SLIDE_NUMBER",
+    "16:PICTURE",
+    "0:TITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 5,
+   "name": "Title slide \u2013  Layout 3B",
+   "placeholders": [
+    "14:BODY",
+    "4:SLIDE_NUMBER",
+    "16:PICTURE",
+    "0:TITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 6,
+   "name": "Agenda slide \u2013 Layout 1",
+   "placeholders": [
+    "0:TITLE",
+    "17:BODY",
+    "16:BODY",
+    "19:BODY",
+    "12:BODY",
+    "20:BODY",
+    "13:BODY",
+    "21:BODY",
+    "18:BODY",
+    "22:BODY",
+    "15:BODY",
+    "25:FOOTER",
+    "10:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 7,
+   "name": "Agenda slide \u2013 Layout 2",
+   "placeholders": [
+    "0:TITLE",
+    "16:BODY",
+    "27:BODY",
+    "28:BODY",
+    "29:BODY",
+    "30:BODY",
+    "31:BODY",
+    "38:BODY",
+    "39:BODY",
+    "40:BODY",
+    "41:BODY",
+    "42:BODY",
+    "43:BODY",
+    "51:FOOTER",
+    "4:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 8,
+   "name": "Agenda slide \u2013 Layout 3",
+   "placeholders": [
+    "0:TITLE",
+    "16:BODY",
+    "17:BODY",
+    "12:BODY",
+    "19:BODY",
+    "13:BODY",
+    "20:BODY",
+    "18:BODY",
+    "21:BODY",
+    "23:BODY",
+    "22:BODY",
+    "25:BODY",
+    "24:BODY",
+    "27:BODY",
+    "26:BODY",
+    "29:BODY",
+    "28:BODY",
+    "31:FOOTER",
+    "4:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 9,
+   "name": "Agenda slide \u2013 Layout 4",
+   "placeholders": [
+    "0:TITLE",
+    "18:BODY",
+    "16:BODY",
+    "38:OBJECT",
+    "19:BODY",
+    "27:BODY",
+    "39:OBJECT",
+    "20:BODY",
+    "28:BODY",
+    "40:OBJECT",
+    "26:BODY",
+    "29:BODY",
+    "42:OBJECT",
+    "22:BODY",
+    "30:BODY",
+    "43:OBJECT",
+    "24:BODY",
+    "31:BODY",
+    "41:OBJECT",
+    "14:PICTURE",
+    "45:FOOTER",
+    "11:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 10,
+   "name": "Agenda slide \u2013 Layout 5",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "14:PICTURE",
+    "19:FOOTER",
+    "4:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 11,
+   "name": "Read Only 2",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 12,
+   "name": "Title and Content",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "20:FOOTER",
+    "10:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 13,
+   "name": "Content + footer",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "19:BODY",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 14,
+   "name": "Title + lower subtitle/heading",
+   "placeholders": [
+    "0:TITLE",
+    "1:OBJECT",
+    "17:OBJECT",
+    "21:FOOTER",
+    "20:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 15,
+   "name": "Title + top subtitle",
+   "placeholders": [
+    "0:TITLE",
+    "19:BODY",
+    "17:OBJECT",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 16,
+   "name": "Content + right side image",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "23:PICTURE",
+    "27:FOOTER",
+    "26:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 17,
+   "name": "Content+preset gradient A GD",
+   "placeholders": [
+    "0:TITLE",
+    "18:OBJECT",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 18,
+   "name": "Content+preset gradient B GD",
+   "placeholders": [
+    "0:TITLE",
+    "18:OBJECT",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 19,
+   "name": "Title and content two",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "23:OBJECT",
+    "27:FOOTER",
+    "26:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 20,
+   "name": "Two content+1 heading",
+   "placeholders": [
+    "0:TITLE",
+    "26:BODY",
+    "17:OBJECT",
+    "23:OBJECT",
+    "30:FOOTER",
+    "29:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 21,
+   "name": "Comparison x2",
+   "placeholders": [
+    "0:TITLE",
+    "28:BODY",
+    "17:OBJECT",
+    "29:BODY",
+    "23:OBJECT",
+    "33:FOOTER",
+    "32:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 22,
+   "name": "Comparison x3 (L1)",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "20:OBJECT",
+    "11:BODY",
+    "22:OBJECT",
+    "12:BODY",
+    "23:OBJECT",
+    "27:FOOTER",
+    "26:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 23,
+   "name": "Comparison x3 (L2)",
+   "placeholders": [
+    "0:TITLE",
+    "25:OBJECT",
+    "17:OBJECT",
+    "26:OBJECT",
+    "22:OBJECT",
+    "27:OBJECT",
+    "23:OBJECT",
+    "31:FOOTER",
+    "30:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 24,
+   "name": "Comparison x4",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "20:OBJECT",
+    "11:BODY",
+    "22:OBJECT",
+    "12:BODY",
+    "23:OBJECT",
+    "13:BODY",
+    "24:OBJECT",
+    "28:FOOTER",
+    "27:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 25,
+   "name": "Comparison x5",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "20:OBJECT",
+    "11:BODY",
+    "22:OBJECT",
+    "25:BODY",
+    "26:OBJECT",
+    "12:BODY",
+    "23:OBJECT",
+    "13:BODY",
+    "24:OBJECT",
+    "30:FOOTER",
+    "29:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 26,
+   "name": "Large image right+content",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "21:FOOTER",
+    "20:SLIDE_NUMBER",
+    "16:PICTURE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 27,
+   "name": "Large title +right image",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "18:PICTURE",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 28,
+   "name": "Large title+right graphic device",
+   "placeholders": [
+    "0:TITLE",
+    "18:OBJECT",
+    "15:PICTURE",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 29,
+   "name": "Large image left+content",
+   "placeholders": [
+    "0:TITLE",
+    "17:OBJECT",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER",
+    "16:PICTURE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 30,
+   "name": "Large title +left image",
+   "placeholders": [
+    "0:TITLE",
+    "18:PICTURE",
+    "17:OBJECT",
+    "22:FOOTER",
+    "21:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 31,
+   "name": "Large graphic device left+content",
+   "placeholders": [
+    "0:TITLE",
+    "15:PICTURE",
+    "20:OBJECT",
+    "24:FOOTER",
+    "23:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 32,
+   "name": "Computer + editable screen",
+   "placeholders": [
+    "0:TITLE",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER",
+    "24:PICTURE",
+    "19:OBJECT"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 33,
+   "name": "Laptop + editable screen",
+   "placeholders": [
+    "0:TITLE",
+    "19:OBJECT",
+    "24:PICTURE",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 34,
+   "name": "Tablet + editable screen",
+   "placeholders": [
+    "0:TITLE",
+    "18:PICTURE",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER",
+    "19:OBJECT"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 35,
+   "name": "Mobile + editable screen",
+   "placeholders": [
+    "0:TITLE",
+    "23:FOOTER",
+    "22:SLIDE_NUMBER",
+    "24:PICTURE",
+    "19:OBJECT"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 36,
+   "name": "Title only slide",
+   "placeholders": [
+    "0:TITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 37,
+   "name": "Read Only 3",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 38,
+   "name": "CV/Resume slide \u2013 Layout 1",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "13:BODY",
+    "14:BODY",
+    "15:BODY",
+    "18:BODY",
+    "21:BODY",
+    "22:BODY",
+    "23:BODY",
+    "24:BODY",
+    "25:BODY",
+    "16:BODY",
+    "26:BODY",
+    "27:BODY",
+    "28:BODY",
+    "29:BODY",
+    "30:BODY",
+    "31:BODY",
+    "17:BODY",
+    "33:BODY",
+    "34:BODY",
+    "35:BODY",
+    "36:BODY",
+    "37:BODY",
+    "32:BODY",
+    "41:FOOTER",
+    "40:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 39,
+   "name": "CV/Resume slide \u2013 Layout 2A",
+   "placeholders": [
+    "0:TITLE",
+    "11:PICTURE",
+    "14:BODY",
+    "16:BODY",
+    "24:BODY",
+    "17:BODY",
+    "26:BODY",
+    "27:BODY",
+    "28:BODY",
+    "29:BODY",
+    "20:BODY",
+    "19:BODY",
+    "22:BODY",
+    "30:BODY",
+    "32:FOOTER",
+    "40:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 40,
+   "name": "CV/Resume slide \u2013 Layout 2B",
+   "placeholders": [
+    "0:TITLE",
+    "11:PICTURE",
+    "14:BODY",
+    "16:BODY",
+    "24:BODY",
+    "17:BODY",
+    "26:BODY",
+    "27:BODY",
+    "28:BODY",
+    "29:BODY",
+    "20:BODY",
+    "19:BODY",
+    "22:BODY",
+    "30:BODY",
+    "32:FOOTER",
+    "40:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 41,
+   "name": "CV/Resume slide \u2013 Continued",
+   "placeholders": [
+    "0:TITLE",
+    "24:BODY",
+    "17:BODY",
+    "28:BODY",
+    "29:BODY",
+    "22:BODY",
+    "30:BODY",
+    "34:FOOTER",
+    "33:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 42,
+   "name": "Team - 1",
+   "placeholders": [
+    "0:TITLE",
+    "13:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "34:FOOTER",
+    "33:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 43,
+   "name": "Team - 2A",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "33:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "37:FOOTER",
+    "36:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 44,
+   "name": "Team - 2B",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "33:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "10:FOOTER",
+    "11:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 45,
+   "name": "Team - 3A",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "33:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "34:PICTURE",
+    "31:BODY",
+    "32:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 46,
+   "name": "Team - 3B",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "33:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "34:PICTURE",
+    "31:BODY",
+    "32:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 47,
+   "name": "Team - 4A",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "13:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "15:PICTURE",
+    "31:BODY",
+    "32:BODY",
+    "14:PICTURE",
+    "33:BODY",
+    "34:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 48,
+   "name": "Team - 4B",
+   "placeholders": [
+    "0:TITLE",
+    "12:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "13:PICTURE",
+    "29:BODY",
+    "30:BODY",
+    "15:PICTURE",
+    "31:BODY",
+    "32:BODY",
+    "14:PICTURE",
+    "33:BODY",
+    "34:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 49,
+   "name": "Team - 5A",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "13:PICTURE",
+    "24:BODY",
+    "25:BODY",
+    "29:PICTURE",
+    "30:BODY",
+    "31:BODY",
+    "32:PICTURE",
+    "33:BODY",
+    "34:BODY",
+    "35:PICTURE",
+    "36:BODY",
+    "37:BODY",
+    "41:FOOTER",
+    "40:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 50,
+   "name": "Team - 5B",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "27:BODY",
+    "28:BODY",
+    "13:PICTURE",
+    "24:BODY",
+    "25:BODY",
+    "29:PICTURE",
+    "30:BODY",
+    "31:BODY",
+    "32:PICTURE",
+    "33:BODY",
+    "34:BODY",
+    "35:PICTURE",
+    "36:BODY",
+    "37:BODY",
+    "41:FOOTER",
+    "40:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 51,
+   "name": "Team - 10A",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "59:BODY",
+    "58:BODY",
+    "100:PICTURE",
+    "65:BODY",
+    "64:BODY",
+    "101:PICTURE",
+    "71:BODY",
+    "70:BODY",
+    "102:PICTURE",
+    "77:BODY",
+    "76:BODY",
+    "103:PICTURE",
+    "83:BODY",
+    "82:BODY",
+    "104:PICTURE",
+    "86:BODY",
+    "85:BODY",
+    "105:PICTURE",
+    "89:BODY",
+    "88:BODY",
+    "106:PICTURE",
+    "92:BODY",
+    "91:BODY",
+    "107:PICTURE",
+    "95:BODY",
+    "94:BODY",
+    "108:PICTURE",
+    "98:BODY",
+    "97:BODY",
+    "112:FOOTER",
+    "111:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 52,
+   "name": "Team - 10B",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "59:BODY",
+    "58:BODY",
+    "100:PICTURE",
+    "65:BODY",
+    "64:BODY",
+    "101:PICTURE",
+    "71:BODY",
+    "70:BODY",
+    "102:PICTURE",
+    "77:BODY",
+    "76:BODY",
+    "103:PICTURE",
+    "83:BODY",
+    "82:BODY",
+    "104:PICTURE",
+    "86:BODY",
+    "85:BODY",
+    "105:PICTURE",
+    "89:BODY",
+    "88:BODY",
+    "106:PICTURE",
+    "92:BODY",
+    "91:BODY",
+    "107:PICTURE",
+    "95:BODY",
+    "94:BODY",
+    "108:PICTURE",
+    "98:BODY",
+    "97:BODY",
+    "112:FOOTER",
+    "111:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 53,
+   "name": "Read Only 4",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 54,
+   "name": "Vertical split left gradient + content",
+   "placeholders": [
+    "0:TITLE",
+    "22:OBJECT",
+    "26:FOOTER",
+    "25:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 55,
+   "name": "Vertical split left gradient + image",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "27:FOOTER",
+    "25:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 56,
+   "name": "Vertical split right gradient",
+   "placeholders": [
+    "0:TITLE",
+    "20:BODY",
+    "1:SUBTITLE",
+    "19:BODY",
+    "24:FOOTER",
+    "23:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 57,
+   "name": "Horizontal split top gradient ",
+   "placeholders": [
+    "0:TITLE",
+    "20:BODY",
+    "22:BODY",
+    "21:BODY",
+    "26:FOOTER",
+    "25:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 58,
+   "name": "Content/quote highlight + cornerstone",
+   "placeholders": [
+    "10:FOOTER",
+    "11:SLIDE_NUMBER",
+    "18:PICTURE",
+    "0:TITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 59,
+   "name": "Content/quote highlight + image",
+   "placeholders": [
+    "10:FOOTER",
+    "11:SLIDE_NUMBER",
+    "18:PICTURE",
+    "0:TITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 60,
+   "name": "Content/quote gradient highlight + background image",
+   "placeholders": [
+    "0:TITLE",
+    "10:FOOTER",
+    "11:SLIDE_NUMBER",
+    "18:PICTURE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 61,
+   "name": "Content/quote highlight x1 \u2013 A",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "36:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 62,
+   "name": "Content/quote highlight x1 \u2013 B",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "36:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 63,
+   "name": "Content/quote highlight x2 \u2013 A",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "32:BODY",
+    "33:BODY",
+    "34:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 64,
+   "name": "Content/quote highlight x2 \u2013 B",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "32:BODY",
+    "33:BODY",
+    "34:BODY",
+    "38:FOOTER",
+    "37:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 65,
+   "name": "Content/quote highlight x3 \u2013 A",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "32:BODY",
+    "33:BODY",
+    "34:BODY",
+    "35:BODY",
+    "36:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 66,
+   "name": "Content/quote highlight x3 \u2013 B",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "32:BODY",
+    "33:BODY",
+    "34:BODY",
+    "35:BODY",
+    "36:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 67,
+   "name": "Read Only 5",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 68,
+   "name": "Section header A - background image",
+   "placeholders": [
+    "0:TITLE",
+    "13:BODY",
+    "14:PICTURE",
+    "18:FOOTER",
+    "17:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 69,
+   "name": "Section header B - background image",
+   "placeholders": [
+    "0:TITLE",
+    "13:BODY",
+    "14:PICTURE",
+    "18:FOOTER",
+    "17:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 70,
+   "name": "Section header A",
+   "placeholders": [
+    "0:TITLE",
+    "1:SUBTITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 71,
+   "name": "Section header B",
+   "placeholders": [
+    "0:TITLE",
+    "1:SUBTITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 72,
+   "name": "Section header A - Cornerstone",
+   "placeholders": [
+    "0:TITLE",
+    "1:SUBTITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 73,
+   "name": "Section header B - Cornerstone",
+   "placeholders": [
+    "0:TITLE",
+    "1:SUBTITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 74,
+   "name": "Section header gray - Cornerstone",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER",
+    "0:TITLE",
+    "1:SUBTITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 75,
+   "name": "Section header white - Cornerstone",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER",
+    "0:TITLE",
+    "1:SUBTITLE"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 76,
+   "name": "Read Only 6",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 77,
+   "name": "Closing slide A \u2013 Cornerstone bkgd",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 78,
+   "name": "Closing slide B \u2013 Cornerstone bkgd",
+   "placeholders": [
+    "0:TITLE",
+    "10:BODY",
+    "40:FOOTER",
+    "39:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 79,
+   "name": "Closing slide A \u2013 Contact us",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "62:BODY",
+    "60:PICTURE",
+    "63:BODY",
+    "67:FOOTER",
+    "66:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 80,
+   "name": "Closing slide B \u2013 Contact us",
+   "placeholders": [
+    "0:TITLE",
+    "26:PICTURE",
+    "62:BODY",
+    "60:PICTURE",
+    "63:BODY",
+    "67:FOOTER",
+    "66:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 81,
+   "name": "Closing slide A \u2013 Logo+Cornerstone",
+   "placeholders": [
+    "0:TITLE",
+    "12:BODY",
+    "16:FOOTER",
+    "15:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 82,
+   "name": "Closing slide B \u2013 Logo+Cornerstone",
+   "placeholders": [
+    "0:TITLE",
+    "12:BODY",
+    "16:FOOTER",
+    "15:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 83,
+   "name": "Read Only 7",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 84,
+   "name": "Q&A - Cornerstone",
+   "placeholders": [
+    "0:TITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 85,
+   "name": "Closing slide A \u2013 Preset tagline+description",
+   "placeholders": [
+    "0:TITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 86,
+   "name": "Closing slide B \u2013 Preset tagline+description",
+   "placeholders": [
+    "0:TITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 87,
+   "name": "Closing slide \u2013 Preset About CGI",
+   "placeholders": [
+    "0:TITLE",
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  },
+  {
+   "master": 0,
+   "index": 88,
+   "name": "Read Only - End of slide layouts",
+   "placeholders": [
+    "13:FOOTER",
+    "12:SLIDE_NUMBER"
+   ]
+  }
+ ],
+ "master_logos": [
+  {
+   "where": "layout:Title slide \u2013  Layout 1",
+   "left_in": 0.839,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.792,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:Title slide \u2013  Layout 2A",
+   "left_in": 0.839,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.792,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:Title slide \u2013  Layout 2B",
+   "left_in": 0.839,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.792,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:CV/Resume slide \u2013 Layout 2A",
+   "left_in": 11.667,
+   "top_in": 6.697,
+   "width_in": 0.845,
+   "height_in": 0.393,
+   "name": "CGI Logo"
+  },
+  {
+   "where": "layout:CV/Resume slide \u2013 Layout 2B",
+   "left_in": 11.667,
+   "top_in": 6.697,
+   "width_in": 0.845,
+   "height_in": 0.393,
+   "name": "CGI Logo"
+  },
+  {
+   "where": "layout:Closing slide A \u2013 Logo+Cornerstone",
+   "left_in": 10.82,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.788,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:Closing slide B \u2013 Logo+Cornerstone",
+   "left_in": 10.82,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.788,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:Closing slide A \u2013 Preset tagline+description",
+   "left_in": 10.82,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.788,
+   "name": "CGI logo"
+  },
+  {
+   "where": "layout:Closing slide B \u2013 Preset tagline+description",
+   "left_in": 10.82,
+   "top_in": 5.875,
+   "width_in": 1.694,
+   "height_in": 0.788,
+   "name": "CGI logo"
+  }
+ ],
+ "palette_allowed": [
+  "E31937",
+  "5236AB",
+  "FFFFFF",
+  "000000",
+  "200A58",
+  "6E3FED",
+  "9E83F5",
+  "BFB5F9",
+  "CBC3E6",
+  "E6E3F3",
+  "650A21",
+  "991F3D",
+  "FF6A00",
+  "FF7362",
+  "FF978A",
+  "FFCDD2",
+  "333333",
+  "555555",
+  "777777",
+  "999999",
+  "CCCCCC",
+  "EEEEEE",
+  "7E1B4C",
+  "A82465",
+  "CB7CA3",
+  "128354",
+  "F1A425",
+  "B00020"
+ ],
+ "gradients": {
+  "A": [
+   "E31937@0",
+   "A82465@60",
+   "5236AB@100"
+  ],
+  "B": [
+   "FFCDD2@0",
+   "FF6A00@33",
+   "E31937@66",
+   "991F3D@100"
+  ]
+ },
+ "build_master": "Standard Presentation Template - 2025.pptx",
+ "slide_libraries": [
+  "EN-CGI-Timesaver-template.potx",
+  "Template_Jan 2025.pptx"
+ ],
+ "footer_classification": "Confidential"
+}

@@ -1,0 +1,34 @@
+# Copy to config.local.yaml (gitignored) and fill in every value.
+# All paths are absolute.
+
+# Best-practice template library (no brand). Read in place, never copied into the repo.
+TEMPLATE_LIBRARY_ROOT: ""
+
+# Master slide database: SQLite index, thumbnails, contact sheets. Default: <repo>/library (gitignored).
+SLIDE_LIBRARY_ROOT: ""
+
+# Project folders. Each project has context/, design-guide/, output/. Default: <repo>/projects (gitignored).
+PROJECTS_ROOT: ""
+
+# Brand folders DeckBuilder knows about. Key is the brand slug used in docs/brands/<slug>/.
+# Any other folder can be passed at build time with --brand <path>.
+BRANDS:
+  # cgi: "/absolute/path/to/brand/folder"
+
+# File name patterns the slide database skips (duplicates, drafts).
+LIBRARY_EXCLUDE: []
+
+# LibreOffice binary used for rendering thumbnails and QA images.
+# macOS default: /Applications/LibreOffice.app/Contents/MacOS/soffice
+SOFFICE_PATH: ""
+
+# Generation models. Confirm current model IDs with: python -m deckbuilder check
+RUNWAY:
+  api_base: "https://api.dev.runwayml.com/v1"
+  api_version: "2024-11-06"
+  image_model: "gen4_image"
+  video_model: "gen4_turbo"
+VEO:
+  provider: "gemini"          # gemini (GEMINI_API_KEY) or vertex (GOOGLE_CLOUD_PROJECT + ADC)
+  model: "veo-3.1-generate-preview"
+  vertex_location: "us-central1"
